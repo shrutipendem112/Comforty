@@ -2,3 +2,13 @@
     margin: 0;
     padding: 0;
 }
+.image-size-1{
+    width: 100% !important;
+    height: 30% !important;
+}
+.bg-color{
+    background-color: rgb(10, 144, 156);
+    width: 1.6rem !important;
+    height: 1.6rem !important;
+    margin-left: 18rem;
+}
